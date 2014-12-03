@@ -36,7 +36,7 @@
 
 	<div class="container">
 		<div id="navbutton"><i class="fa fa-bars fa-2x"></i></div>
-		<h1><a href="index.php"><span class="color-accent">UI</span>Brush</a></h1>
+		<h1 class="logo"><a href="index.php"><span class="color-accent">UI</span>Brush</a></h1>
 		<nav>
 			<ul>
 				<li><a <?php if($page_title == "UIBrush | Home" ) {echo 'class="active"';} ?> href="index.php">home</a></li>

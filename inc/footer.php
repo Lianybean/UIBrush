@@ -32,7 +32,7 @@
 	$(document).ready(function() {
 
 		$("#navbutton").click(function() {
-			$("nav").slideToggle();
+			$("nav").slideToggle(0);
 		});
 		
 	});
